@@ -74,5 +74,6 @@ XML serialization
 Windows UI development
 
 ## Author
-Sarah Gershuni & Rachel Shtrochlitz
-Educational full-stack developers with deep interest in architecture, correctness, and building real solutions from the ground up.
+Authors  
+Yael Cohen & Tamar Meidan  
+Software Engineering Students
